@@ -344,7 +344,7 @@ class Extractor(object):
 
 
 if __name__ == '__main__':
-    IN_PATH = '..'
+    IN_PATH = 'billpdf'
     OUT_PATH = 'result.xlsx'
     # parse params
     # opts, args = getopt.getopt(sys.argv[1:], 'p:ts:', ['test', 'path=', 'save='])
